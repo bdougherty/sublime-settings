@@ -1,0 +1,9 @@
+{
+	"folders": [
+		{
+			"path": ".",
+			"folder_exclude_patterns": ["Package Control.cache"],
+			"file_exclude_patterns": ["Package Control.last-run", "Package Control.*ca-*", "Icon*"]
+		}
+	]
+}

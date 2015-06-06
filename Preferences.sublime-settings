@@ -1,0 +1,65 @@
+{
+	"atomic_save": false,
+	"auto_complete_commit_on_tab": true,
+	"auto_match_enabled": true,
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"close_windows_when_empty": true,
+	"color_scheme": "Packages/User/SublimeLinter/Oceanic Next (SL).tmTheme",
+	"detect_indentation": true,
+	"enable_tab_scrolling": false,
+	"ensure_newline_at_eof_on_save": true,
+	"findreplace_small": true,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		".sync",
+		".AppleDouble"
+	],
+	"folder_icons": false,
+	"font_face": "Fira Mono",
+	"font_size": 12,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"SublimeLinter-jscs",
+		"Local History",
+		"BufferScroll",
+		"Vintage",
+		"Markdown",
+		"MultiEditUtils"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"new_window_settings":
+	{
+		"show_minimap": false,
+		"show_tabs": true,
+		"side_bar_visible": false,
+		"status_bar_visible": true
+	},
+	"remember_full_screen": true,
+	"remember_open_files": true,
+	"rulers":
+	[
+		100
+	],
+	"scroll_past_end": true,
+	"show_panel_on_build": false,
+	"sidebar_medium": true,
+	"soda_retina_fix": true,
+	"tab_size": 4,
+	"tabs_small": true,
+	"theme": "Spacegray Ocean.sublime-theme",
+	"translate_tabs_to_spaces": false,
+	"trim_automatic_white_space": false,
+	"trim_trailing_white_space_on_save": true,
+	"use_tab_stops": true
+}

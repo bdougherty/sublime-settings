@@ -1,0 +1,10 @@
+{
+	"extensions":
+	[
+		"md",
+		"mdown",
+		"mmd",
+		"markdown"
+	],
+	"font_size": 14
+}

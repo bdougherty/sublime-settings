@@ -1,0 +1,29 @@
+{
+	"snippets": {
+		"variables": {
+			"charset": "utf-8"
+		},
+		"css": {
+			"snippets": {
+				"@mw": "@media screen and (max-width: ${1}px) {\n\t|\n}",
+				"@mh": "@media screen and (max-height: ${1}px) {\n\t|\n}",
+				"@mwh": "@media screen and (max-width: ${1}px), screen and (max-height: ${1}px) {\n\t|\n}"
+			}
+		},
+		"html": {
+			"snippets": {
+				"typekit": "<script src=\"//use.typekit.net/${1:kit-id}.js\"></script>\n<script>if(self!=top){top.location=self.location}try{Typekit.load();}catch(e){}</script>",
+				"gauges": "<script>\n\t(function() {\n\t\tvar t = document.createElement('script'); t.async = true;\n\t\tt.id = 'gauges-tracker';\n\t\tt.setAttribute('data-site-id', '${1:site-id}');\n\t\tt.src = '//secure.gaug.es/track.js';\n\t\tvar s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(t, s);\n\t})();\n</script>"
+			},
+			"abbreviations": {
+				"link:touch": "link[rel=apple-touch-icon-precomposed href=${1:path/to/favicon-152.png}]",
+				"meta:ie": "meta[http-equiv=X-UA-Compatible content=IE=edge]",
+				"meta:tilecolor": "meta[name=msapplication-TileColor content=${1:#fff}]",
+				"meta:tileimage": "meta[name=msapplication-TileImage content=${1:/path/to/favicon-144.png}]",
+				"meta:metro": "meta:tilecolor+meta:tileimage",
+				"meta:vp": "meta[name=viewport content='width=device-width,initial-scale=1']",
+				"doc": "html>(head>meta[charset=${charset}]+meta:ie+meta:vp+title{${1:Document}}+link:touch)+body"
+			}
+		}
+	}
+}

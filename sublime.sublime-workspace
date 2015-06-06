@@ -1,0 +1,3250 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ren",
+				"renderHeight (num)"
+			],
+			[
+				"rend",
+				"renderWidth (num)"
+			],
+			[
+				"re",
+				"renderHeight (num)"
+			],
+			[
+				"le",
+				"letterHeight (?)"
+			],
+			[
+				"letter",
+				"letterHeight (?)"
+			],
+			[
+				"lett",
+				"letterWidth (?)"
+			],
+			[
+				"creaet",
+				"createOutputElement"
+			],
+			[
+				"sur",
+				"supportedScanner"
+			],
+			[
+				"supp",
+				"supportedTypes"
+			],
+			[
+				"parse",
+				"parseVttTimestamp"
+			],
+			[
+				"test",
+				"testStylesheet"
+			],
+			[
+				"metho",
+				"methodTests"
+			],
+			[
+				"videoEn",
+				"videoEnterFullscreen"
+			],
+			[
+				"check",
+				"checkSignatureExpiration"
+			],
+			[
+				"pars",
+				"parseVtt"
+			],
+			[
+				"parseVtt",
+				"parseVttTimestamp"
+			],
+			[
+				"revmo",
+				"removeExtraButtons"
+			],
+			[
+				"added",
+				"addedClasses"
+			],
+			[
+				"add",
+				"addedNodes"
+			],
+			[
+				"karma",
+				"karmaBaseFiles"
+			],
+			[
+				"cop",
+				"nativeCopySupported"
+			],
+			[
+				"remove",
+				"removeAllRanges"
+			],
+			[
+				"should",
+				"shouldStringifyMessage"
+			],
+			[
+				"init",
+				"initiateAndCheckValues"
+			],
+			[
+				"send",
+				"sendMessage"
+			],
+			[
+				"return",
+				"returnValue"
+			],
+			[
+				"track",
+				"trackLanguages"
+			],
+			[
+				"met",
+				"methodName"
+			],
+			[
+				"Vimeo",
+				"VimeoRequestHandler"
+			],
+			[
+				"tip",
+				"tipJarButton"
+			],
+			[
+				"per",
+				"performDelegateAction"
+			],
+			[
+				"tipJar",
+				"tipJarButtonPressed"
+			],
+			[
+				"event",
+				"eventManager"
+			],
+			[
+				"att",
+				"attachClickHandler"
+			],
+			[
+				"even",
+				"eventCallback"
+			],
+			[
+				"prop",
+				"properties"
+			],
+			[
+				"suppo",
+				"supportsTextTracks"
+			],
+			[
+				"an",
+				"androidMobile"
+			],
+			[
+				"sy",
+				"supportedTypes"
+			],
+			[
+				"canPlay",
+				"canPlayType"
+			],
+			[
+				"suppor",
+				"supportsTextTracks"
+			],
+			[
+				"player",
+				"playerOrigin"
+			],
+			[
+				"play",
+				"playerOrigin"
+			],
+			[
+				"from",
+				"fromKeyboard"
+			],
+			[
+				"eleme",
+				"elementToFocus"
+			],
+			[
+				"side",
+				"sidedockVisible"
+			],
+			[
+				"controlb",
+				"controlBarVisibilityChanged"
+			],
+			[
+				"ac",
+				"activeElement"
+			],
+			[
+				"elemen",
+				"elements"
+			],
+			[
+				"acti",
+				"activeElement"
+			],
+			[
+				"getT",
+				"getTabindexItems"
+			],
+			[
+				"act",
+				"activeElement"
+			],
+			[
+				"visib",
+				"visibleMenu"
+			],
+			[
+				"visi",
+				"visibleMenu"
+			],
+			[
+				"get",
+				"getTabindexItems"
+			],
+			[
+				"button",
+				"buttonElement"
+			],
+			[
+				"elem",
+				"elementToFocus"
+			],
+			[
+				"reque",
+				"requestAnimationFrame"
+			],
+			[
+				"prev",
+				"previousTabIndex"
+			],
+			[
+				"set",
+				"setAttribute"
+			],
+			[
+				"queryS",
+				"querySelectorAll"
+			],
+			[
+				"pre",
+				"previouslyFocusedElement"
+			],
+			[
+				"las",
+				"lastFocusedElement"
+			],
+			[
+				"focu",
+				"focusableElements"
+			],
+			[
+				"foc",
+				"focusableElements"
+			],
+			[
+				"ex",
+				"executeModules"
+			],
+			[
+				"analy",
+				"analytics-test"
+			],
+			[
+				"produc",
+				"productionConfig"
+			],
+			[
+				"bas",
+				"baseConfig"
+			],
+			[
+				"prod",
+				"production"
+			],
+			[
+				"base",
+				"baseConfig"
+			],
+			[
+				"modu",
+				"moduleConfig"
+			],
+			[
+				"web",
+				"webpackConfig"
+			],
+			[
+				"webk",
+				"webpackTasks"
+			],
+			[
+				"sour",
+				"sourceMapFilename"
+			],
+			[
+				"lib",
+				"library"
+			],
+			[
+				"bigs",
+				"bigscreen"
+			],
+			[
+				"bigScree",
+				"onBeginFullscreen"
+			],
+			[
+				"wrapp",
+				"wrappedHandler"
+			],
+			[
+				"Ev",
+				"EventManager"
+			],
+			[
+				"file",
+				"filepath"
+			],
+			[
+				"pro",
+				"propertyDefaults"
+			],
+			[
+				"star",
+				"startArray"
+			],
+			[
+				"create",
+				"createDOMException"
+			],
+			[
+				"can",
+				"canPlayType"
+			],
+			[
+				"air",
+				"airPlayButton"
+			],
+			[
+				"full",
+				"fullscreenButton"
+			],
+			[
+				"pyth",
+				"pythonTests"
+			],
+			[
+				"logo",
+				"logo_url"
+			],
+			[
+				"numb",
+				"number_of_floors"
+			],
+			[
+				"releas",
+				"releaseText"
+			],
+			[
+				"asci",
+				"asciiOutputCanvas"
+			],
+			[
+				"asc",
+				"asciiColor"
+			],
+			[
+				"ascii",
+				"asciiCanvasHeight"
+			],
+			[
+				"image",
+				"imageData"
+			],
+			[
+				"creaTE",
+				"createElement"
+			],
+			[
+				"canvas",
+				"canvasImageSource"
+			],
+			[
+				"video",
+				"videoAscii"
+			],
+			[
+				"Flideo",
+				"FlideoChromecastRenderer"
+			],
+			[
+				"app",
+				"appendChild"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"err",
+				"errorInfo"
+			],
+			[
+				"in",
+				"initializeCastApi"
+			],
+			[
+				"append",
+				"appendFrame"
+			],
+			[
+				"load",
+				"loadGoogleAnalytics"
+			],
+			[
+				"befor",
+				"beforeEach"
+			],
+			[
+				"like",
+				"likeIcon"
+			],
+			[
+				"device",
+				"devicePixelRatio"
+			],
+			[
+				"sidedock",
+				"sidedockHover"
+			],
+			[
+				"pa",
+				"param	@param"
+			],
+			[
+				"Function",
+				"FunctionExpression"
+			],
+			[
+				"bufferStar",
+				"bufferStartTime"
+			],
+			[
+				"cssLoaded",
+				"cssLoadedOrInfo"
+			],
+			[
+				"cssLoad",
+				"cssLoadTime"
+			],
+			[
+				"thumb",
+				"thumbLoadDuration"
+			],
+			[
+				"netwo",
+				"network_to_action_type"
+			],
+			[
+				"evet",
+				"eventManager"
+			],
+			[
+				"previous",
+				"previousReferrer"
+			],
+			[
+				"prefi",
+				"previousReferrer"
+			],
+			[
+				"DELIVERY",
+				"DELIVERY_METHOD_PROGRESSIVE_SECURE"
+			],
+			[
+				"show",
+				"showOnPlayInitiated"
+			],
+			[
+				"found",
+				"foundTrack"
+			],
+			[
+				"lang",
+				"languageMatchTrack"
+			],
+			[
+				"vide",
+				"videoSupport"
+			],
+			[
+				"thumbn",
+				"thumbnailReady"
+			],
+			[
+				"start",
+				"startScrubbing"
+			],
+			[
+				"po",
+				"pointerLeaveSupported"
+			],
+			[
+				"point",
+				"pointerEnterSupported"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 105,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "SublimeLinter/predawn (SL).tmTheme",
+			"settings":
+			{
+				"buffer_size": 20569,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "SublimeLinter.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 2595,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 135.0,
+		"last_filter": "lintermode",
+		"selected_items":
+		[
+			[
+				"lintermode",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"rever",
+				"Permute Lines: Reverse"
+			],
+			[
+				"revers",
+				"Permute Lines: Reverse"
+			],
+			[
+				"bab",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"babel",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"gitcheck",
+				"Git: Checkout Current File"
+			],
+			[
+				"sor",
+				"Sort Lines"
+			],
+			[
+				"gitchec",
+				"Git: Checkout Current File"
+			],
+			[
+				"babe",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"formaja",
+				"CodeFormatter: Format as Javascript Syntax"
+			],
+			[
+				"form",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"git sts",
+				"Git: Status"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"linter",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"lintererror",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"eslint",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"format",
+				"CodeFormatter: Format as Javascript Syntax"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"for",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"spa",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"ba",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"lintersettin",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"lintersett",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"lintersetting",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"blam",
+				"Git: Blame"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"blame",
+				"Git: Blame"
+			],
+			[
+				"bla",
+				"Git: Blame"
+			],
+			[
+				"esnex",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"list p",
+				"Package Control: List Packages"
+			],
+			[
+				"listpa",
+				"Package Control: List Packages"
+			],
+			[
+				"js",
+				"Set Syntax: JSON"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"find",
+				"FindKeyConflicts: All Conflicts"
+			],
+			[
+				"synjsn",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"synja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"synjs",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"grunt",
+				"Grunt"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"choos",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"git d",
+				"Git: Diff"
+			],
+			[
+				"gitd",
+				"Git: Difftool"
+			],
+			[
+				"gitdi",
+				"Git: Difftool"
+			],
+			[
+				"gitpu",
+				"Git: Push Current Branch"
+			],
+			[
+				"log",
+				"Git: Log"
+			],
+			[
+				"di",
+				"Git: Diff Cached"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"diff",
+				"Git: Diff Cached"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"check",
+				"Git: Checkout"
+			],
+			[
+				"gitlog",
+				"Git: Log"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"gid",
+				"Git: Diff"
+			],
+			[
+				"gitlo",
+				"Git: Log"
+			],
+			[
+				"gst",
+				"Git: Status"
+			],
+			[
+				"gitdif",
+				"Git: Diff"
+			],
+			[
+				"deco",
+				"URL Decode"
+			],
+			[
+				"gitb",
+				"Git: Blame"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"prettif",
+				"HTMLPrettify"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"upg",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"listp",
+				"Package Control: List Packages"
+			],
+			[
+				"scs",
+				"Set Syntax: SCSS"
+			],
+			[
+				"comment",
+				"Toggle Block Comment"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"markdo",
+				"Set Syntax: Markdown"
+			],
+			[
+				"dift",
+				"Git: Diff Tool All"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"diffto",
+				"Git: Diff Tool All"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"tidy c",
+				"Tidy CSS"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"remove p",
+				"Package Control: Remove Package"
+			],
+			[
+				"sass",
+				"Set Syntax: SCSS"
+			],
+			[
+				"synta",
+				"Set Syntax: CSS"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"forma",
+				"Format: Javascript"
+			],
+			[
+				"synt",
+				"Set Syntax: HTML"
+			],
+			[
+				"addre",
+				"Package Control: Add Repository"
+			],
+			[
+				"syntjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"disabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"synta ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"synt javas",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 484.0
+	},
+	"console":
+	{
+		"height": 348.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/brad/Library/Application Support/Sublime Text 3/Packages/User"
+	],
+	"file_history":
+	[
+		"/Users/brad/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/brad/Documents/Vimeo/Code/telecine/.eslintrc",
+		"/Users/brad/Documents/Vimeo/Code/telecine/src/telecine.js",
+		"/Users/brad/Documents/Vimeo/Code/player/static/js/modules/stats.js",
+		"/Users/brad/Documents/Vimeo/Code/player/temp/es6 copy/telecine/utils.es6",
+		"/Users/brad/Documents/Vimeo/Code/player/.eslintrc",
+		"/Users/brad/Documents/Vimeo/Code/player/static/js/modules/api.js",
+		"/Users/brad/Documents/Vimeo/Code/player/static/js/modules/color.js",
+		"/Users/brad/Documents/Vimeo/Code/player/static/js/modules/controlbar.js",
+		"/Users/brad/Documents/Vimeo/Code/player/static/js/modules/keyboard.js",
+		"/Users/brad/Documents/Vimeo/Code/player/static/js/modules/overlay.js",
+		"/Users/brad/Documents/Vimeo/Code/player/static/js/modules/popup.js",
+		"/Users/brad/Documents/Vimeo/Code/player/test/utils/vtt-test.js",
+		"/Users/brad/Documents/Vimeo/Code/player/test/utils/functions-test.js",
+		"/Users/brad/Documents/Vimeo/Code/player/static/js/modules/video.js",
+		"/Users/brad/Documents/Vimeo/Code/player/static/js/player.js",
+		"/Users/brad/Documents/Vimeo/Code/player/Gruntfile.js",
+		"/Users/brad/Documents/Vimeo/Code/player/static/js/utils/functions.js",
+		"/Users/brad/Documents/Vimeo/Code/player/static/js/moogaloop.js",
+		"/Users/brad/Documents/Vimeo/Code/player/static/js/utils/attachclickhandler.js",
+		"/Users/brad/Documents/Vimeo/Code/player/static/js/utils/addcssrule.js",
+		"/Users/brad/Documents/Vimeo/Code/player/static/js/utils/limit.js",
+		"/Users/brad/Documents/Vimeo/Code/player/static/js/utils/openwindow.js",
+		"/Users/brad/Documents/Vimeo/Code/player/static/js/utils/parsetime.js",
+		"/Users/brad/Documents/Vimeo/Code/player/static/js/utils/resetfocus.js",
+		"/Users/brad/Documents/Vimeo/Code/player/static/js/utils/round.js",
+		"/Users/brad/Documents/Vimeo/Code/player/static/js/utils/throttle.js",
+		"/Users/brad/Documents/Vimeo/Code/player/static/js/utils/vtt.js",
+		"/Users/brad/Documents/Vimeo/Code/player/static/js/utils/parsevtt.js",
+		"/Users/brad/Documents/Vimeo/Code/player/static/js/modules/insights.js",
+		"/Users/brad/Documents/Vimeo/Code/player/test/utils/util-test.js",
+		"/Users/brad/Documents/Vimeo/Code/player/static/js/modules/outro.js",
+		"/Users/brad/Documents/Vimeo/Code/player/static/js/modules/sidedock.js",
+		"/Users/brad/Documents/Vimeo/Code/player/static/js/modules/analytics.js",
+		"/Users/brad/Documents/Vimeo/Code/player/static/js/libs/flideo2.js",
+		"/Users/brad/Documents/Vimeo/Code/player/views/purchase.phtml",
+		"/Users/brad/Documents/Vimeo/Code/player/package.json",
+		"/Users/brad/Documents/Vimeo/Code/player/static/js/utils/support.js",
+		"/Users/brad/Documents/Vimeo/Code/player/.eslintignore",
+		"/Users/brad/Documents/Vimeo/Code/player/static/js/utils/menu.js",
+		"/Users/brad/Documents/Vimeo/Code/player/views/debug.phtml",
+		"/Users/brad/Documents/Vimeo/Code/player/views/crawler.phtml",
+		"/Users/brad/Documents/Vimeo/Code/player/views/auth.phtml",
+		"/Users/brad/Documents/Vimeo/Code/player/views/main.phtml",
+		"/Users/brad/Documents/Vimeo/Code/player/lifeguard.yaml",
+		"/Users/brad/Documents/Vimeo/Code/player/test/bootstrap.js",
+		"/Users/brad/Documents/Vimeo/Code/player/static/js/libs/color.js",
+		"/Users/brad/Documents/Vimeo/Code/player/build/tasks/pack.js",
+		"/Users/brad/Documents/Vimeo/Code/player/test/modules/analytics-test.js",
+		"/Users/brad/Documents/Vimeo/Code/player/test/modules/api-test.js",
+		"/Users/brad/Documents/Vimeo/Code/player/player.sublime-project",
+		"/Users/brad/Documents/Vimeo/Code/player/build/tasks/minimizeInlineBlocks.js",
+		"/Users/brad/Documents/Vimeo/Code/player/vimeo/controllers/controllers.py",
+		"/Users/brad/Documents/Vimeo/Code/player/vimeo/controllers/test_controllers.py",
+		"/Users/brad/Documents/Vimeo/Code/player/test/.eslintrc",
+		"/Users/brad/Documents/Vimeo/Code/player/views/hls-manifest.phtml",
+		"/Users/brad/Downloads/stuff.csv",
+		"/Users/brad/Documents/Vimeo/Code/player/static/js/libs/telecine/telecine.js",
+		"/Users/brad/Documents/Vimeo/Code/player/static/js/libs/telecine/scanners/html.js",
+		"/Users/brad/Documents/Vimeo/Code/player/static/js/libs/telecine/.eslintrc",
+		"/Users/brad/Documents/Vimeo/Code/player/views/playground.phtml",
+		"/Users/brad/Documents/Vimeo/Code/player/static/js/utils/util.js",
+		"/Users/brad/Documents/Vimeo/Code/player/vimeo/player.py",
+		"/Users/brad/Documents/Vimeo/Code/player/static/test/froogaloop2.js",
+		"/Users/brad/Documents/Vimeo/Code/player/static/js/libs/bigscreen.js",
+		"/Users/brad/Documents/Vimeo/Code/player/static/js/utils/constants.js",
+		"/Users/brad/Documents/Vimeo/Code/player/vimeo/rpc.py",
+		"/Users/brad/Documents/Vimeo/Code/player/test/stats-test.js",
+		"/Users/brad/Documents/Vimeo/Code/player/.travis.yml",
+		"/Users/brad/Documents/Vimeo/Code/player/test/moogaloop-test.js",
+		"/Users/brad/Documents/Vimeo/Code/player/static/templates/sidedock.jhtml",
+		"/Users/brad/Documents/Vimeo/Code/player/build/tasks/sizes.js",
+		"/Users/brad/Documents/Vimeo/Code/player/static/js/modules/notification.js",
+		"/Users/brad/Documents/Vimeo/Code/player/static/js/modules/captions.js",
+		"/Users/brad/Documents/Vimeo/Code/player/static/es6/telecine/telecine.es6",
+		"/Users/brad/Documents/Vimeo/Code/player/static/es6/telecine/scanners/html.es6",
+		"/Users/brad/Documents/Vimeo/Code/player/temp/telecine/telecine.js",
+		"/Users/brad/Documents/Vimeo/Code/player/karma.conf.js",
+		"/Users/brad/Documents/Vimeo/Code/player/static/js/modules/templates.js",
+		"/Users/brad/Documents/Vimeo/Code/player/static/js/modules/title.js",
+		"/Users/brad/Documents/Vimeo/Code/player/static/js/modules/store.js",
+		"/Users/brad/Documents/Vimeo/Code/player/static/js/libs/gator.js",
+		"/Users/brad/Documents/Vimeo/Code/player/vimeo/tests/test_player.py",
+		"/Users/brad/Documents/Vimeo/Code/player/update.sh",
+		"/Users/brad/Documents/Vimeo/Code/player/install.sh",
+		"/Users/brad/Documents/Vimeo/Code/player/static/js/modules/metrics.js",
+		"/Users/brad/Documents/Vimeo/Code/player/static/js/partners/stingray.js",
+		"/Users/brad/Documents/Vimeo/Code/player/static/js/libs/eventmanager2.js",
+		"/Users/brad/.gitconfig",
+		"/Users/brad/Documents/Vimeo/Code/player/test/key-event.js",
+		"/Users/brad/Documents/Vimeo/Code/player/test/modules/title-test.js",
+		"/Users/brad/Documents/Vimeo/Code/player/test/modules/stats-test.js",
+		"/Users/brad/Documents/Vimeo/Code/player/test/modules/sidedock-test.js",
+		"/Users/brad/Documents/Vimeo/Code/player/test/modules/keyboard-test.js",
+		"/Users/brad/Documents/Vimeo/Code/player/test/modules/controlbar-test.js",
+		"/Users/brad/Documents/Vimeo/Code/player/test/libs/color-test.js",
+		"/Users/brad/Documents/Vimeo/Code/player/test/modules/captions-test.js",
+		"/Users/brad/Documents/Vimeo/Code/player/test/libs.html",
+		"/Users/brad/Documents/Vimeo/Code/player/test/utils/support-test.js",
+		"/Users/brad/Documents/Vimeo/Code/player/test/libs/eventmanager-test.js",
+		"/Users/brad/Documents/Vimeo/Code/player/test/main.js",
+		"/Users/brad/Documents/Vimeo/Code/player/.babelrc",
+		"/Users/brad/Documents/Vimeo/Code/player/fabfile.py",
+		"/Users/brad/Documents/Vimeo/Code/player/temp/conviva.js",
+		"/Users/brad/Documents/Vimeo/Code/player/vimeo/controllers/base_controllers.py",
+		"/Users/brad/Documents/Vimeo/Code/player/static/proxy.html",
+		"/Users/brad/Documents/Vimeo/Code/player/vimeo/urls.py",
+		"/Users/brad/Documents/Vimeo/Code/player/static/templates/share.jhtml",
+		"/Users/brad/Documents/Vimeo/Code/player/test/api_iframe.html",
+		"/Users/brad/Documents/Vimeo/Code/player/test/libs/helpers.js",
+		"/Users/brad/Documents/Vimeo/Code/player/test/moogaloop.html",
+		"/Users/brad/Documents/Vimeo/Code/player/test/api-test.js",
+		"/Users/brad/Documents/Vimeo/Code/player/static/js/store.js",
+		"/Users/brad/Documents/Vimeo/Code/player/build/rules/no-es5.js",
+		"/Users/brad/Documents/Vimeo/Code/player/static/js/libs/defineproperty.js",
+		"/Users/brad/Documents/Vimeo/Code/player/test/color-test.js",
+		"/Users/brad/Documents/Vimeo/Code/player/static/js/prepend.js",
+		"/Users/brad/Documents/Vimeo/Code/player/static/js/video.js",
+		"/Users/brad/Documents/Vimeo/Code/player/static/js/api.js",
+		"/Users/brad/Documents/Vimeo/Code/player/views/test/colors.phtml",
+		"/Users/brad/Documents/Vimeo/Code/player/views/test/mediaquery.phtml",
+		"/Users/brad/Documents/Vimeo/Code/player/test/controlbar-test.js",
+		"/Users/brad/Documents/Vimeo/Code/player/static/js/libs/gator_mouse.js",
+		"/Users/brad/Documents/Vimeo/Code/player/static/js/libs/gator_pointer.js",
+		"/Users/brad/Documents/Vimeo/Code/player/static/js/libs/gator_transition.js",
+		"/Users/brad/Documents/Vimeo/Code/player/static/js/modules/controls.js",
+		"/Users/brad/Documents/Vimeo/Code/player/webpack.config.js",
+		"/Users/brad/Documents/Vimeo/Code/player/static/js/utils/defineproperty.js"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"/Users/brad/Documents/Vimeo/Code/player/static/js/modules",
+			"/Users/brad/Documents/Vimeo/Code/player/static/js",
+			"",
+			"/Users/brad/Documents/Vimeo/Code/player/static/js",
+			"",
+			"/Users/brad/Documents/Vimeo/Code/player/static/js",
+			"/Users/brad/Documents/Vimeo/Code/player/vimeo",
+			"",
+			"/Users/brad/Documents/Vimeo/Code/player/static/js",
+			"",
+			"/Users/brad/Documents/Vimeo/Code/player/static/templates",
+			"/Users/brad/Documents/Vimeo/Code/player/static",
+			"",
+			"/Users/brad/Documents/Vimeo/Code/player/static/js",
+			"",
+			"/Users/brad/Documents/Vimeo/Code/player/static/js",
+			"",
+			"/Users/brad/Documents/Vimeo/Code/player/static/js",
+			"*.js",
+			"/Users/brad/Documents/Vimeo/Code/player/test",
+			"",
+			"*.py",
+			"*.js",
+			"*.py",
+			"",
+			"*.js",
+			"/Users/brad/Dropbox/Code/player/static/js",
+			"/Users/brad/Dropbox/Code/player/static/sass",
+			"/Users/brad/Dropbox/Code/player/vimeo",
+			"/Users/brad/Dropbox/Code/player/static/js",
+			"/Users/brad/Dropbox/Code/player/static/sass",
+			"",
+			"/Users/brad/Dropbox/Code/player/static/js",
+			"/Users/brad/Dropbox/Code/player/static/sass",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"",
+			"*.js",
+			"/Users/brad/Dropbox/Code/player",
+			"/Users/brad/Dropbox/Code/player/static",
+			"/Users/brad/Dropbox/Code/player/static/js",
+			"",
+			"/Users/brad/Dropbox/Code/player/static",
+			"",
+			"/Users/brad/Dropbox/Code/player/static/js",
+			"static",
+			"",
+			"static/",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"Math.round(",
+			"offset",
+			"frag",
+			"elements",
+			"this.renderWidth",
+			"this.renderHeight",
+			"h",
+			"x",
+			"char",
+			"{r, g, b, color}",
+			",",
+			";",
+			"output.style.",
+			"5",
+			"Math.round(",
+			"timeout",
+			"height",
+			"width",
+			"backingCanvas",
+			"animationFrame",
+			" * 1.5",
+			"imageData",
+			"this.renderHeight",
+			"this.renderWidth",
+			"iw",
+			"ih",
+			"Width",
+			"+",
+			"i",
+			"var",
+			"canvasHeight",
+			"canvasWidth",
+			"theChar",
+			"charList",
+			"asciiCharList",
+			"var",
+			"asciiCharOutput",
+			"asciiCanvasWidth",
+			"asciiCanvasHeight",
+			"480",
+			"640",
+			"flideo.",
+			"video",
+			"TimeRanges",
+			"vtt",
+			"_v",
+			"addCssRule",
+			"utils/functions';",
+			"attachClickHandler",
+			"success",
+			"parses",
+			"formatTime",
+			"var",
+			"pad(",
+			"methodName",
+			": [",
+			", ma",
+			", ",
+			"makeMethodTest",
+			"getDefaultLab",
+			"_anonymizeIp",
+			"could not be loaded",
+			"deferre",
+			"forceFull",
+			"badge",
+			"configExpired",
+			"Control.checkSignatureExpiration",
+			"title",
+			"twitter_press",
+			"let",
+			"function() ",
+			"scrub(",
+			"scrub",
+			"throttle",
+			"node",
+			"timing",
+			"Notification",
+			"new Notification",
+			"@todo",
+			"' + ",
+			" + ",
+			"videoUrl",
+			" + '",
+			"' + ",
+			" + '",
+			"' + ",
+			"formatTime",
+			", '",
+			", col",
+			", ",
+			"' + ",
+			", '",
+			" + '",
+			"' + ",
+			" + '",
+			"' + ",
+			"'",
+			">>>>",
+			"_setAccount",
+			"mocha",
+			"../../",
+			"../",
+			"mochaReporter",
+			"[\n                        'node_modules/babel-core/browser-polyfill.js',\n                        'static/js/libs/polyfill.js',\n                        'test/bootstrap.js',\n                        'test/helpers.js',\n                        ",
+			"eventmanager",
+			"'test/bootstrap.js', ",
+			"eventmanager.make({})",
+			"utils",
+			"libs",
+			"new EventManager()",
+			"eventmanager.make({})",
+			", 'coverage'",
+			"taskConfig",
+			"baseConfig",
+			"done",
+			"baseConfig",
+			"conviva",
+			"conviva_account",
+			"conviva",
+			"convivaSession",
+			"ASYNC_SET",
+			"Control.loadVideo",
+			"yield",
+			"header",
+			"new_video['thumbnail']",
+			"captions_url",
+			"devcaptions",
+			"nativeCopySupported"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"apiVersion",
+			"",
+			"}",
+			"export function $1",
+			"",
+			"utils/functions",
+			"",
+			"\\n",
+			" ",
+			"TRACK_",
+			"TRACK_MODE_",
+			"ControlBar",
+			"controlbar.js",
+			"window.requestAnimationFrame",
+			"request.context",
+			"'transitionend'",
+			"player.events",
+			"player.eventManager.",
+			"player.config.",
+			"\\n'",
+			"events",
+			"propertyValues",
+			"_v.raf",
+			"img_2x",
+			"_video.currentTime",
+			"_video.loadProgress",
+			"_video.currentTime",
+			"config._video.load_progress",
+			"config._video.current_time",
+			"DefineProperty",
+			"moogaloop",
+			", ",
+			"\\n",
+			"View.contentRating",
+			"View.privatePassword",
+			"View.privateUnlocked",
+			"View.privateLocked",
+			"-",
+			"\\",
+			"unmakeModal",
+			"Events.configChanged",
+			"overlay_cell",
+			"Control.showOverlay",
+			"Control.changeVolume,",
+			"Control.seek,",
+			"Events.configChanged,",
+			"Control.reset",
+			"Number",
+			"\"",
+			"not.have.cssClass",
+			"",
+			"Events",
+			"Support",
+			"VimeoPlayer.Events",
+			"VimeoPlayer.Support",
+			"var VimeoPlayer = VimeoPlayer || {};",
+			","
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 105,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								105,
+								105
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "SublimeLinter/predawn (SL).tmTheme",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 20569,
+						"regions":
+						{
+							"gutter_color_10208":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#151515.png",
+								"regions":
+								[
+									[
+										10208,
+										10236
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_10263":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#B4D388.png",
+								"regions":
+								[
+									[
+										10263,
+										10291
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_10504":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#CF5340.png",
+								"regions":
+								[
+									[
+										10504,
+										10532
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_10745":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#92BFBF.png",
+								"regions":
+								[
+									[
+										10745,
+										10773
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_10988":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#B4D388.png",
+								"regions":
+								[
+									[
+										10988,
+										11016
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_11229":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#777777.png",
+								"regions":
+								[
+									[
+										11229,
+										11257
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_11474":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#777777.png",
+								"regions":
+								[
+									[
+										11474,
+										11502
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1159":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#777777.png",
+								"regions":
+								[
+									[
+										1159,
+										1187
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_11725":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#ECEC89.png",
+								"regions":
+								[
+									[
+										11725,
+										11753
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_11974":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#F18260.png",
+								"regions":
+								[
+									[
+										11974,
+										12002
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_12227":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#CF5340.png",
+								"regions":
+								[
+									[
+										12227,
+										12255
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_12484":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#F49D62.png",
+								"regions":
+								[
+									[
+										12484,
+										12512
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_12745":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#CF5340.png",
+								"regions":
+								[
+									[
+										12745,
+										12773
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_13006":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#777777.png",
+								"regions":
+								[
+									[
+										13006,
+										13034
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_13514":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#F49D62.png",
+								"regions":
+								[
+									[
+										13514,
+										13542
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_13755":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#ECEC89.png",
+								"regions":
+								[
+									[
+										13755,
+										13783
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_14068":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#92BFBF.png",
+								"regions":
+								[
+									[
+										14068,
+										14096
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1407":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#777777.png",
+								"regions":
+								[
+									[
+										1407,
+										1435
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_14389":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#F1F1F1.png",
+								"regions":
+								[
+									[
+										14389,
+										14417
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_14745":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#ECEC89.png",
+								"regions":
+								[
+									[
+										14745,
+										14773
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_14997":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#f49d62.png",
+								"regions":
+								[
+									[
+										14997,
+										15025
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_15229":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#B4D388.png",
+								"regions":
+								[
+									[
+										15229,
+										15257
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_15465":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#B4D388.png",
+								"regions":
+								[
+									[
+										15465,
+										15493
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_15706":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#F18260.png",
+								"regions":
+								[
+									[
+										15706,
+										15734
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_15982":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#F18260.png",
+								"regions":
+								[
+									[
+										15982,
+										16010
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1622":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#ECEC89.png",
+								"regions":
+								[
+									[
+										1622,
+										1650
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_16224":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#F18260.png",
+								"regions":
+								[
+									[
+										16224,
+										16252
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_16482":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#B4D388.png",
+								"regions":
+								[
+									[
+										16482,
+										16510
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_16741":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#ECEC89.png",
+								"regions":
+								[
+									[
+										16741,
+										16769
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_16989":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#B4D388.png",
+								"regions":
+								[
+									[
+										16989,
+										17017
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_17252":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#DDDDDD.png",
+								"regions":
+								[
+									[
+										17252,
+										17280
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_17497":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#F49D62.png",
+								"regions":
+								[
+									[
+										17497,
+										17525
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_17733":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#B4D388.png",
+								"regions":
+								[
+									[
+										17733,
+										17761
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_18229":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#777777.png",
+								"regions":
+								[
+									[
+										18229,
+										18257
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1833":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#92BFBF.png",
+								"regions":
+								[
+									[
+										1833,
+										1861
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_18469":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#92BFBF.png",
+								"regions":
+								[
+									[
+										18469,
+										18497
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_18699":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#B4D388.png",
+								"regions":
+								[
+									[
+										18699,
+										18727
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_19008":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#999.png",
+								"regions":
+								[
+									[
+										19008,
+										19033
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_19244":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#ECEC89.png",
+								"regions":
+								[
+									[
+										19244,
+										19272
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_19486":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#BDDCDC.png",
+								"regions":
+								[
+									[
+										19486,
+										19514
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_19797":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#DDB700.png",
+								"regions":
+								[
+									[
+										19797,
+										19837
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_20129":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#D02000.png",
+								"regions":
+								[
+									[
+										20129,
+										20169
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2046":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#F49D62.png",
+								"regions":
+								[
+									[
+										2046,
+										2074
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_20468":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#FFFFFF.png",
+								"regions":
+								[
+									[
+										20468,
+										20508
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2259":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#ECEC89.png",
+								"regions":
+								[
+									[
+										2259,
+										2287
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2470":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#BDDCDC.png",
+								"regions":
+								[
+									[
+										2470,
+										2498
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2683":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#92BFBF.png",
+								"regions":
+								[
+									[
+										2683,
+										2711
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2898":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#F49D62.png",
+								"regions":
+								[
+									[
+										2898,
+										2926
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_312":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#282828.png",
+								"regions":
+								[
+									[
+										312,
+										340
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_3137":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#CF5340.png",
+								"regions":
+								[
+									[
+										3137,
+										3165
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_3381":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#151515.png",
+								"regions":
+								[
+									[
+										3381,
+										3409
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_363":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#F18260.png",
+								"regions":
+								[
+									[
+										363,
+										391
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_3630":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#B4D388.png",
+								"regions":
+								[
+									[
+										3630,
+										3658
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_3871":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#B4D388.png",
+								"regions":
+								[
+									[
+										3871,
+										3899
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_4100":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#B4D388.png",
+								"regions":
+								[
+									[
+										4100,
+										4128
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_419":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#F1F1F1.png",
+								"regions":
+								[
+									[
+										419,
+										447
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_4325":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#F49D62.png",
+								"regions":
+								[
+									[
+										4325,
+										4353
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_4554":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#ECEC89.png",
+								"regions":
+								[
+									[
+										4554,
+										4582
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_475":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#F18260.png",
+								"regions":
+								[
+									[
+										475,
+										503
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_4785":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#F49D62.png",
+								"regions":
+								[
+									[
+										4785,
+										4813
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_5016":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#B4D388.png",
+								"regions":
+								[
+									[
+										5016,
+										5044
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_5258":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#92BFBF.png",
+								"regions":
+								[
+									[
+										5258,
+										5286
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_534":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#232323.png",
+								"regions":
+								[
+									[
+										534,
+										562
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_5512":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#92BFBF.png",
+								"regions":
+								[
+									[
+										5512,
+										5540
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_5787":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#B4D388.png",
+								"regions":
+								[
+									[
+										5787,
+										5815
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_589":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#4C4C4C.png",
+								"regions":
+								[
+									[
+										589,
+										617
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_6182":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#ECEC89.png",
+								"regions":
+								[
+									[
+										6182,
+										6210
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_6518":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#F49D62.png",
+								"regions":
+								[
+									[
+										6518,
+										6546
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_652":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#3C3C3C.png",
+								"regions":
+								[
+									[
+										652,
+										680
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_6856":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#B4D388.png",
+								"regions":
+								[
+									[
+										6856,
+										6884
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_711":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#F18260.png",
+								"regions":
+								[
+									[
+										711,
+										739
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_7335":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#92BFBF.png",
+								"regions":
+								[
+									[
+										7335,
+										7363
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_773":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#4C4C4C.png",
+								"regions":
+								[
+									[
+										773,
+										801
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_7826":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#ECEC89.png",
+								"regions":
+								[
+									[
+										7826,
+										7854
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_8086":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#F49D62.png",
+								"regions":
+								[
+									[
+										8086,
+										8114
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_8391":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#ECEC89.png",
+								"regions":
+								[
+									[
+										8391,
+										8419
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_8877":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#777777.png",
+								"regions":
+								[
+									[
+										8877,
+										8905
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_9129":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#F18260.png",
+								"regions":
+								[
+									[
+										9129,
+										9157
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_9366":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#151515.png",
+								"regions":
+								[
+									[
+										9366,
+										9394
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_9421":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#DDDDDD.png",
+								"regions":
+								[
+									[
+										9421,
+										9449
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_9646":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#151515.png",
+								"regions":
+								[
+									[
+										9646,
+										9674
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_9701":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#CF5340.png",
+								"regions":
+								[
+									[
+										9701,
+										9729
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_9926":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#B4D388.png",
+								"regions":
+								[
+									[
+										9926,
+										9954
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_9981":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#92BFBF.png",
+								"regions":
+								[
+									[
+										9981,
+										10009
+									]
+								],
+								"scope": "gutter_color"
+							}
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "SublimeLinter.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2595,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 219.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 112.0
+	},
+	"output.git-checkout":
+	{
+		"height": 114.0
+	},
+	"output.git-commit":
+	{
+		"height": 114.0
+	},
+	"output.git-pull":
+	{
+		"height": 114.0
+	},
+	"output.git-push":
+	{
+		"height": 114.0
+	},
+	"pinned_build_system": "",
+	"project": "sublime.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"stat",
+				"static/js/modules/stats.js"
+			],
+			[
+				"flid",
+				"static/js/libs/flideo2.js"
+			],
+			[
+				"video",
+				"static/js/modules/video.js"
+			],
+			[
+				"eslint",
+				".eslintrc"
+			],
+			[
+				"grunt",
+				"Gruntfile.js"
+			],
+			[
+				"player.",
+				"static/js/player.js"
+			],
+			[
+				"utils",
+				"test/utils/util-test.js"
+			],
+			[
+				"moog",
+				"static/js/moogaloop.js"
+			],
+			[
+				"purch",
+				"views/purchase.phtml"
+			],
+			[
+				"moogal",
+				"static/js/moogaloop.js"
+			],
+			[
+				"player.js",
+				"static/js/player.js"
+			],
+			[
+				"analy",
+				"static/js/modules/analytics.js"
+			],
+			[
+				"popu",
+				"static/js/modules/popup.js"
+			],
+			[
+				"api",
+				"static/js/modules/api.js"
+			],
+			[
+				"mooga",
+				"static/js/moogaloop.js"
+			],
+			[
+				"esl",
+				".eslintignore"
+			],
+			[
+				"main",
+				"views/main.phtml"
+			],
+			[
+				"hls",
+				"views/hls-manifest.phtml"
+			],
+			[
+				"life",
+				"lifeguard.yaml"
+			],
+			[
+				"test",
+				"vimeo/controllers/test_controllers.py"
+			],
+			[
+				"cont",
+				"vimeo/controllers/controllers.py"
+			],
+			[
+				"deb",
+				"views/debug.phtml"
+			],
+			[
+				"controll",
+				"vimeo/controllers/controllers.py"
+			],
+			[
+				"grun",
+				"Gruntfile.js"
+			],
+			[
+				"craw",
+				"views/crawler.phtml"
+			],
+			[
+				"min",
+				"build/tasks/minimizeInlineBlocks.js"
+			],
+			[
+				"utils-te",
+				"test/utils/util-test.js"
+			],
+			[
+				"funct",
+				"static/js/utils/functions.js"
+			],
+			[
+				"controlbar",
+				"static/js/modules/controlbar.js"
+			],
+			[
+				"colo",
+				"static/js/libs/color.js"
+			],
+			[
+				"playgrou",
+				"views/playground.phtml"
+			],
+			[
+				"froo",
+				"static/test/froogaloop2.js"
+			],
+			[
+				"util",
+				"static/js/utils/util.js"
+			],
+			[
+				"suppo",
+				"static/js/utils/support.js"
+			],
+			[
+				"big",
+				"static/js/libs/bigscreen.js"
+			],
+			[
+				"player",
+				"static/js/player.js"
+			],
+			[
+				"rpc",
+				"vimeo/rpc.py"
+			],
+			[
+				"tra",
+				".travis.yml"
+			],
+			[
+				"cons",
+				"static/js/utils/constants.js"
+			],
+			[
+				"st",
+				"static/js/modules/stats.js"
+			],
+			[
+				"api.js",
+				"static/js/modules/api.js"
+			],
+			[
+				"func",
+				"static/js/utils/functions.js"
+			],
+			[
+				"side",
+				"static/templates/sidedock.jhtml"
+			],
+			[
+				"sid",
+				"static/js/modules/sidedock.js"
+			],
+			[
+				"video.js",
+				"static/js/modules/video.js"
+			],
+			[
+				"ana",
+				"static/js/modules/analytics.js"
+			],
+			[
+				"capt",
+				"static/js/modules/captions.js"
+			],
+			[
+				"eslintrc",
+				"static/js/libs/telecine/.eslintrc"
+			],
+			[
+				"noti",
+				"static/js/modules/notification.js"
+			],
+			[
+				"temp",
+				"static/js/modules/templates.js"
+			],
+			[
+				"templ",
+				"static/js/modules/templates.js"
+			],
+			[
+				"pl",
+				"static/js/player.js"
+			],
+			[
+				"esli",
+				".eslintrc"
+			],
+			[
+				"gato",
+				"static/js/libs/gator.js"
+			],
+			[
+				"function",
+				"static/js/utils/functions.js"
+			],
+			[
+				"up",
+				"update.sh"
+			],
+			[
+				"inst",
+				"install.sh"
+			],
+			[
+				"controller",
+				"vimeo/controllers/controllers.py"
+			],
+			[
+				"met",
+				"static/js/modules/metrics.js"
+			],
+			[
+				"overl",
+				"static/js/modules/overlay.js"
+			],
+			[
+				"pack.js",
+				"build/tasks/pack.js"
+			],
+			[
+				"karm",
+				"karma.conf.js"
+			],
+			[
+				"store",
+				"static/js/modules/store.js"
+			],
+			[
+				"upda",
+				"update.sh"
+			],
+			[
+				"ins",
+				"install.sh"
+			],
+			[
+				"eventm",
+				"static/js/libs/eventmanager2.js"
+			],
+			[
+				"trav",
+				".travis.yml"
+			],
+			[
+				"caption",
+				"static/js/modules/captions.js"
+			],
+			[
+				"stat-te",
+				"test/modules/stats-test.js"
+			],
+			[
+				"eventman2",
+				"static/js/libs/eventmanager2.js"
+			],
+			[
+				"even",
+				"test/libs/eventmanager-test.js"
+			],
+			[
+				"libcol",
+				"static/js/libs/color.js"
+			],
+			[
+				"fab",
+				"fabfile.py"
+			],
+			[
+				"pro",
+				"static/proxy.html"
+			],
+			[
+				"urls",
+				"vimeo/urls.py"
+			],
+			[
+				"keyb",
+				"static/js/modules/keyboard.js"
+			],
+			[
+				"fabf",
+				"fabfile.py"
+			],
+			[
+				"share",
+				"static/templates/share.jhtml"
+			],
+			[
+				"supp",
+				"static/js/utils/support.js"
+			],
+			[
+				"api-te",
+				"test/api-test.js"
+			],
+			[
+				"main.js",
+				"test/main.js"
+			],
+			[
+				"defin",
+				"static/js/libs/defineproperty.js"
+			],
+			[
+				"prep",
+				"static/js/prepend.js"
+			],
+			[
+				"color-",
+				"test/color-test.js"
+			],
+			[
+				"helper",
+				"test/libs/helpers.js"
+			],
+			[
+				"gri",
+				"Gruntfile.js"
+			],
+			[
+				"eslin",
+				".eslintrc"
+			],
+			[
+				"color-te",
+				"test/color-test.js"
+			],
+			[
+				"gator_",
+				"static/js/libs/gator_mouse.js"
+			],
+			[
+				"controlb",
+				"test/controlbar-test.js"
+			],
+			[
+				"control",
+				"static/js/modules/controlbar.js"
+			],
+			[
+				"libsga",
+				"static/js/libs/gator.js"
+			],
+			[
+				"gru",
+				"Gruntfile.js"
+			],
+			[
+				"event",
+				"static/js/libs/eventmanager2.js"
+			],
+			[
+				"flideo2",
+				"static/js/libs/flideo2.js"
+			],
+			[
+				"titl",
+				"static/js/modules/title.js"
+			],
+			[
+				"overlay",
+				"static/js/modules/overlay.js"
+			],
+			[
+				"outr",
+				"static/js/modules/outro.js"
+			],
+			[
+				"menu",
+				"static/js/utils/menu.js"
+			],
+			[
+				"su",
+				"static/js/support.js"
+			],
+			[
+				"pop",
+				"static/js/popup.js"
+			],
+			[
+				"outro",
+				"static/js/outro.js"
+			],
+			[
+				"moo",
+				"static/js/moogaloop.js"
+			],
+			[
+				"flideo",
+				"static/js/flideo2.js"
+			],
+			[
+				"poly",
+				"static/js/libs/polyfill.js"
+			],
+			[
+				"color",
+				"static/js/libs/color.js"
+			],
+			[
+				"sto",
+				"static/js/store.js"
+			],
+			[
+				"contro",
+				"static/js/controls.js"
+			],
+			[
+				"app.p",
+				"app.py"
+			],
+			[
+				"app",
+				"app.py"
+			],
+			[
+				"url",
+				"vimeo/urls.py"
+			],
+			[
+				"controlle",
+				"vimeo/controllers/controllers.py"
+			],
+			[
+				"apiv2",
+				"views/test/apiv2.phtml"
+			],
+			[
+				"apiv",
+				"views/test/apiv1.phtml"
+			],
+			[
+				"test_con",
+				"vimeo/controllers/test_controllers.py"
+			],
+			[
+				"embe",
+				"views/embed.phtml"
+			],
+			[
+				"testapi",
+				"views/test/apiv1.phtml"
+			],
+			[
+				"purchas",
+				"views/purchase.phtml"
+			],
+			[
+				"iconsh",
+				"static/templates/icon_share.jhtml"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"gul",
+				"gulpfile.js"
+			],
+			[
+				"polyfi",
+				"static/js/libs/polyfill.js"
+			],
+			[
+				"test/te",
+				"test/test.js"
+			],
+			[
+				"insig",
+				"static/js/modules/insights.js"
+			],
+			[
+				"anal",
+				"static/js/analytics.js"
+			],
+			[
+				"bas",
+				"static/sass/_base.scss"
+			],
+			[
+				"fli",
+				"static/js/flideo2.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 49.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"switchtopla",
+				"switchToPlayButton"
+			],
+			[
+				"sidedock",
+				"showSidedock"
+			],
+			[
+				"sidedo",
+				"Sidedock"
+			],
+			[
+				"aka",
+				"Akamai"
+			],
+			[
+				"",
+				"Clip"
+			]
+		],
+		"width": 669.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 191.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

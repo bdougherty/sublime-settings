@@ -1,0 +1,7 @@
+{
+    "git_commit_pedantic": true,
+    "git_extensions": {
+        "git_flow": false
+    },
+    "git_status_bar": false
+}

@@ -1,0 +1,8 @@
+{
+	"jsdocs_align_tags": "no",
+	"jsdocs_extend_double_slash": false,
+	"jsdocs_extra_tags": [
+		"@author Brad Dougherty <brad@vimeo.com>"
+	],
+    "jsdocs_spacer_between_sections": "after_description"
+}
